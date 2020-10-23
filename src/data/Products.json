@@ -1,0 +1,114 @@
+[
+    {
+        "id": 1,
+        "name": "Ao 1 (XS)",
+        "price": 100,
+        "size_id": 1,
+        "image": "./img/p1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Ao 2 (XS)",
+        "price": 200,
+        "size_id": 1,
+        "image": "./img/p2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Ao 3 (XS)",
+        "price": 130,
+        "size_id": 1,
+        "image": "./img/p3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Ao 4 (S)",
+        "price": 40,
+        "size_id": 2,
+        "image": "./img/p4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Ao 5 (S)",
+        "price": 500,
+        "size_id": 2,
+        "image": "./img/p5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Ao 6 (M)",
+        "price": 60,
+        "size_id": 3,
+        "image": "./img/p6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Ao 7 (L)",
+        "price": 270,
+        "size_id": 4,
+        "image": "./img/p7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Ao 8 (L)",
+        "price": 380,
+        "size_id": 4,
+        "image": "./img/p8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Ao 9 (XL)",
+        "price": 900,
+        "size_id": 5,
+        "image": "./img/p9.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Ao 10 (XL)",
+        "price": 450,
+        "size_id": 5,
+        "image": "./img/p10.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Ao 11 (XL)",
+        "price": 1100,
+        "size_id": 5,
+        "image": "./img/p11.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Ao 12 (XXL)",
+        "price": 550,
+        "size_id": 6,
+        "image": "./img/p12.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Ao 13 (XXL)",
+        "price": 1300,
+        "size_id": 6,
+        "image": "./img/p13.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Ao 14 (XXL)",
+        "price": 980,
+        "size_id": 6,
+        "image": "./img/p14.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Ao 15 (M)",
+        "price": 630,
+        "size_id": 3,
+        "image": "./img/p15.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Ao 16 (S)",
+        "price": 660,
+        "size_id": 2,
+        "image": "./img/p16.jpg"
+    }
+]
